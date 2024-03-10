@@ -1080,7 +1080,7 @@ body {
 }
 
 .back-top-btn:is(:hover, :focus) {
-  background-color: var(--hoockers-green);
+  background-color: rgb(95, 95, 255);
   color: var(--white);
 }
 
