@@ -689,7 +689,7 @@ body {
 }
 
 .shop-card .action-btn:is(:hover, :focus) {
-  background-color: var(--black);
+  background-color: var(--logo-purple);
   color: var(--white);
 }
 
