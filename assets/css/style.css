@@ -350,7 +350,7 @@ body {
   display: flex;
   align-items: center;
   gap: 3px;
-  transition: var(--transition-1);
+  transition: var(--logo-purple);
 }
 
 .img-holder {
@@ -655,7 +655,7 @@ body {
 }
 
 .shop .btn-link:is(:hover, :focus) {
-  color: var(--hoockers-green);
+  color: var(--logo-purple);
 }
 
 .shop-card .card-banner {
